@@ -68,7 +68,3 @@ public class CustomTextAnnotation : RectangleAnnotation
 ## Output:
 
 ![Customized Rectangle Annotation with button](https://user-images.githubusercontent.com/102642528/211318119-488d4bda-402e-450e-ac06-b32592c28313.png)
-
-## See also:
-
-[Performance in WPF Charts (SfChart)](https://help.syncfusion.com/wpf/charts/performance)
