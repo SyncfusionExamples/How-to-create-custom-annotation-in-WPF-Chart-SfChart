@@ -69,4 +69,4 @@ public class CustomTextAnnotation : RectangleAnnotation
 
 ## Output:
 
-![Customized Rectangle Annotation with button](https://user-images.githubusercontent.com/102642528/211318119-488d4bda-402e-450e-ac06-b32592c28313.png)
+![Customized Rectangle Annotation with button](https://user-images.githubusercontent.com/102642528/212282757-e057007f-7bc2-46b7-832f-712dc69bbf20.png)
