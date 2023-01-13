@@ -14,11 +14,6 @@ namespace Custom_Annotation
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            // Can perform any action required
-        }
     }
 
     public class CustomTextAnnotation : RectangleAnnotation
