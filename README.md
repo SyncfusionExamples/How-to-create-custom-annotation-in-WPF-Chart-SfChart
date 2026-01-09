@@ -70,3 +70,11 @@ public class CustomTextAnnotation : RectangleAnnotation
 ## Output:
 
 ![Customized Rectangle Annotation with button](https://user-images.githubusercontent.com/102642528/212282757-e057007f-7bc2-46b7-832f-712dc69bbf20.png)
+
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [How to create a custom annotation in WPF Chart?](https://support.syncfusion.com/kb/article/12315/how-to-create-a-custom-annotation-in-wpf-chart-sfchart).
